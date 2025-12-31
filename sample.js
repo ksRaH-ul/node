@@ -6,12 +6,12 @@ var A=a.split("")
 var sorteds= S.sort();
  var sorteda=A.sort();
 
-//  sorteds=sorteds.join("")
-// sorteda=sorteda.join("")
+ sorteds=sorteds.join("")
+sorteda=sorteda.join("")
 
 
-//  if(sorteds==sorteda)
-//  {
-//     console.log("true");                   
-//  }
+ if(sorteds==sorteda)
+ {
+    console.log("true");                   
+ }
 
